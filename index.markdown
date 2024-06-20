@@ -52,6 +52,27 @@ p {
   text-align: center;
 }
 
+
+.feed-subscribe .svg-icon {
+  padding: 5px 5px 2px 0
+}
+
+.svg-icon {
+  width: 1.25em;
+  height: 1.25em;
+  display: inline-block;
+  fill: currentColor;
+  vertical-align: text-bottom;
+}
+
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;            /* Footer height */
+}
+
+
 </style>
 </head>
 </html>
@@ -61,23 +82,23 @@ p {
 
 ---
 
+# Save the Date
+
+<div style="text-align: center;padding-top: 3rem;"> </div>
+
 It is time for our 30 year reunion! 
 
-**Saturday Sept 14th 2024**
+**When:** Saturday, September 14th, 2024
 
-**Place and time to be determined**
+**Where:** TBD
 
-General Discussion of the event can found in our
-<br>
-[Facebook Group](https://www.facebook.com/groups/beaverbrook94)
+<div style="text-align: center;padding-top: 3rem;"> 		    
+<a href="https://www.facebook.com/beaverbrook94"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#facebook"></use></svg> <span class="username">beaverbrook94</span></a>
+</div>
+<div style="text-align: center;"> 
+<a class="u-email" href="mailto:lordbeaverbrook94@gmail.com">lordbeaverbrook94@gmail.com</a>
+</div>
 
-
-Contact the organizers directly by emailing
-<br>
-[lordbeaverbrook94@gmail.com](mailto:lordbeaverbrook94@gmail.com)
-
----
-## Watch this space for more information
 
 
 <!--iv align="center">
