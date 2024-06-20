@@ -92,6 +92,8 @@ It is time for our 30 year reunion!
 
 **Where:** TBD
 
+**Price:** TBD
+
 <div align="center">
 <div style="
   overflow: auto;
@@ -101,21 +103,10 @@ It is time for our 30 year reunion!
   align-items: center;
   width: 259px;
   background: #FFFFFF;
-  border: 1px solid rgba(0, 0, 0, 0.1);
-  box-shadow: -2px 10px 5px rgba(0, 0, 0, 0);
-  border-radius: 10px;
   font-family: Roboto, SQ Market, Helvetica, Arial, sans-serif;
   ">
   <div style="padding: 20px;">
-      <p style="
-    font-size: 18px;
-    line-height: 20px;
-  ">2024 Reunion Tickets</p>
-      <p style="
-    font-size: 18px;
-    line-height: 20px;
-    font-weight: 600;
-  ">$40.00</p>
+ 	<div>
     <a target="_blank" href="https://square.link/u/aMRTs72s?src=embed" style="
     display: inline-block;
     font-size: 18px;
@@ -127,7 +118,7 @@ It is time for our 30 year reunion!
     text-align: center;
     box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset;
     border-radius: 0px;
-  ">Buy now</a>
+  ">Buy Tickets</a>
   </div>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
 </div>
